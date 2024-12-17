@@ -1,0 +1,27 @@
+162.159.253.228:8080#Hong Kong
+162.159.22.223:80#Hong Kong
+104.20.53.190:8080#Frankfurt
+162.159.143.165:2095#Frankfurt
+172.67.4.7:80#Frankfurt
+172.67.5.52:8080#Frankfurt
+162.159.160.186:8080#Frankfurt
+172.66.145.96:8880#San Jose
+172.66.136.16:8880#San Jose
+104.19.127.105:8080#San Jose
+104.18.139.129:2086#San Jose
+104.24.68.120:80#San Jose
+[2606:4700:90c3:e377:dc11:df72:ac:c7fe]:2082#Hong Kong
+[2606:4700:90ca:1d13:b89e:76c7:ed69:71f2]:2095#Hong Kong
+[2606:4700:90d0:2daa:43ed:3756:e247:3208]:2095#Hong Kong
+[2a06:98c1:56:6efe:866b:6344:bae0:4fee]:8080#Hong Kong
+[2606:4700:90c5:12f4:f324:c8b2:a513:3fb8]:2086#Hong Kong
+[2606:4700:8d98:7afa:daff:e388:fd9:2e18]:2082#Frankfurt
+[2606:4700:8d74:7fe9:2e3:5c94:aa4c:e960]:2052#Frankfurt
+[2606:4700:8d72:6995:b5bb:d99d:259c:e998]:2086#Frankfurt
+[2606:4700:8cad:13c7:e8f5:fcc:e8f7:eba7]:80#Frankfurt
+[2606:4700:85d6:5353:2ae3:d9da:81a1:ce16]:8880#Frankfurt
+[2a06:98c1:3123:fea7:669b:b06c:d4f0:60ef]:80#San Jose
+[2606:4700:2a:af7a:f6:f066:51d:ffec]:8080#Seattle
+[2606:4700:2c:4588:f06c:5b21:3cbd:92a0]:2052#Seattle
+[2a06:98c1:52:510:fa61:1b61:bc2c:aeb3]:8080#Los Angeles
+[2606:4700:4401:a249:7abc:6ab6:d8bd:39ef]:80#Los Angeles
